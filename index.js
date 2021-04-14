@@ -6,6 +6,10 @@ class Formatter {
   }
 
   static sanitize(string) {
-    return (this.sanitize(string))
+    // return (this.sanitize(string))
+  }
+
+  static titleize(string) {
+    console.log(string)
   }
 }
